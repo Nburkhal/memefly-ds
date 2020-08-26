@@ -1,6 +1,6 @@
 # Memefly
 
-You can find the project at [MemeflyAI](https://www.memeflyai.com/).
+You can find the project at [MemeflyML](https://memefly.ml/).
 
 ## Contributors
 
